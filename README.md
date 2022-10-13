@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baha-01
-- 👀 I’m interested in the AI field 
+- 👀 I’m interested in AI 
 - 🌱 I’m currently learning machine learning and dashboarding
 - 📫 You can reach me by texting my email : bahabelhajali2001@gmail.com
 
